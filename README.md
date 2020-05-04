@@ -1,9 +1,9 @@
 Quick Start Guide:
 
-npm install /br>
-npm start /br>
-cd api /br>
-npm start /br>
+npm install, 
+npm start, 
+cd api, 
+npm start
 
 
 Notes:  The goal of this exercise is to connect Node.js to React.js using Express.js.  ***As with all programing languages, every detailed letter, space, and symbol is 'mission critical,' meaning that if something doesn't work along the way, please go back and review for all possible human errors.  Some example errors that were encountered along the way are included, but for time and efficient not all errors and edits are included in this text document, but the proper solutions are included leading to a functional outcome.***  Note that ".gitignore" is used in this package to reduce its weight.  This means that upon attempting to run in your environment will require that "ignored" modules be uploaded to your environment before the package runs.  One example includes the "node_modules" which will be installed when running the command below (i.e. "npx").  
